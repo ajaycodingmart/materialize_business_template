@@ -1,0 +1,112 @@
+/*Engage Now button*/
+#engageBtn{
+	text-transform: none;
+    border-radius: 5px;
+     height: 40px;
+    line-height: 40px;
+    padding: 0 1rem;
+}
+#subscribeBtn{
+		text-transform: none;
+    border-radius: 5px;
+}
+/*Section 6 background grey*/
+#backgroundColorGrey{
+    background-color: rgb(242, 242, 242);
+}
+
+/*Email as text box*/
+#emailTextBox,#cartTextBox{
+	border: 1px solid grey;
+	border-radius: 3px;
+	height: 35px;
+}
+
+h3{
+	color:#df8758 !important;
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+
+#logoColor{
+		color: #df8758;
+		padding-left: 50px;
+}
+.headerImg{
+	background-image:url(../images/light_bulb.jpg); 
+	position: relative;
+	padding: 60px;
+}
+
+.Image1{
+	background-image: url(../images/mung_beans.jpg);
+	position: relative;       /*Use it to place text on image*/
+	height: 200px;
+  	background-size: cover; 	/*This uses full image in background*/
+}
+.Image2{
+	background-image: url(../images/coffee_beans_1.jpg);
+	position: relative;
+	height: 200px;
+	background-size: cover;
+}
+.Image3{
+	background-image: url(../images/grapes.jpg);
+	position: relative;
+	height: 200px;
+	background-size: cover;
+}
+
+.txt{
+		text-align: center;
+		color:white;
+}
+#map{
+	border:1px solid black; 
+}
+#mapImage{
+	padding: 1px;
+	width: 100%; 
+}
+#roundedImage{
+	border-radius: 150px; 
+}
+#menuIcons{
+	padding-right:5px;
+	font-weight: 500;
+	text-decoration:none;
+}
+#headingShadow,#headingParaShadow{
+	text-shadow: 2px 2px 5px black;
+}
+#strikeThrough{
+	text-decoration: line-through;
+	color:grey;
+}
+#rateColor{
+		color:#ffb300;
+}
+
+#cardBorder{
+	border:1px solid grey;
+	border-radius: 5px;
+}
+#cardHeading{
+	color:#df8758;
+}
+#logoImg{
+	height: 100px;       /*fire image*/
+}
+#sectionPara{
+	text-align: center;
+	padding-right: 90px;
+}
+#footerInfo{
+	color:orange;
+	display: inline-block;
+}
+#lineHeight{
+	line-height: 365%;
+}
